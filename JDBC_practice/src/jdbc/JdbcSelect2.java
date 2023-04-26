@@ -68,14 +68,6 @@ public class JdbcSelect2 {
 
 
 
-
-
-
-
-
-
-
-
 	}
 
 }

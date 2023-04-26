@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.java.user.service.UserService"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="com.java.user.domain.User"/>
+    <fullyQualifiedTypeName name="javax.imageio.stream.ImageInputStreamImpl"/>
+    <fullyQualifiedTypeName name="com.java.user.domain.Grade"/>
+    <fullyQualifiedTypeName name="javax.management.remote.JMXConnectionNotification"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.java.movie.service.MovieService"/>
+    <fullyQualifiedTypeName name="com.java.common.Condition"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="com.java.common.AppService"/>
+    <fullyQualifiedTypeName name="com.java.view.AppUI"/>
+    <fullyQualifiedTypeName name="com.java.movie.repository.MovieRepository"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="com.java.movie.domain.Movie"/>
+    <fullyQualifiedTypeName name="com.java.user.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.java.common.DataBaseConnection"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="com.java.order.service.OrderService"/>
 </qualifiedTypeNameHistroy>

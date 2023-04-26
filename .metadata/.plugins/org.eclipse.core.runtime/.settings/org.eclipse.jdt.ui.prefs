@@ -1,7 +1,5 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.java.user.repository.UserRepository"><rhs name\="com.java.user.repository.UserRepository"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.java.common.AppService"><rhs name\="com.java.movie.service.MovieService"/></lhs><lhs name\="com.java.movie.domain.Movie"><rhs name\="com.java.movie.domain.Movie"/></lhs><lhs name\="com.java.common.DataBaseConnection"><rhs name\="com.java.common.DataBaseConnection"/></lhs><lhs name\="com.java.movie.repository.MovieRepository"><rhs name\="com.java.movie.repository.MovieRepository"/></lhs></history>
 content_assist_number_of_computers=17
-content_assist_proposals_background=255,255,255
-content_assist_proposals_foreground=0,0,0
 eclipse.preferences.version=1
 org.eclipse.jdt.internal.ui.navigator.layout=2
 org.eclipse.jdt.internal.ui.navigator.librariesnode=true
